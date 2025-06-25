@@ -1,7 +1,4 @@
 ## Hi there 👋
-
-- 👩🏻‍💻 Intern in Systems Development
-- 📚 Studying Systems Analysis and Development.
   
 <p align="left">
   <a href="mailto:magdamolinatoth@gmail.com" title="Gmail">
